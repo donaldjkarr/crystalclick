@@ -117,6 +117,10 @@ body {
 
 }
 
+.crystal:hover {
+	cursor: pointer;
+}
+
 #bottom {
 	clear: both;
 	height: 100px;
